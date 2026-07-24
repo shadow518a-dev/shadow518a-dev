@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 What's up?</h1>
 
-<!--
-**shadow518a-dev/shadow518a-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">I'm Shadow ⚡</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+Python Developer • Blender Designer • Content Creator
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Building tools, creating content, and designing in Blender.
+</p>
+
+---
+
+## 💻 Skills
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,blender,git,github,vscode,linux,cpp,cs,js" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shadow518a-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow518a-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shadow518a-dev&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+<a href="https://discord.gg/YOURSERVER">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+</p>
+
