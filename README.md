@@ -8,21 +8,11 @@ Python Developer • Blender Designer • Content Creator
 
 ## 🚀 About Me
 
-- 🐍 Python Developer
-- 🎨 Blender Designer
-- 🎬 Content Creator
-- 🎞️ Video Editing & Motion Graphics
-
----
-
-## 🛠️ Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,blender" />
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" width="48" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" width="48" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="48" />
-</p>
+- 🐍 Python
+- 🎨 Blender
+- ✨ After Effects
+- 🎬 Premiere Pro
+- 🖼️ Photoshop
 
 ---
 
