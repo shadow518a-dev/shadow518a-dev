@@ -1,21 +1,36 @@
-<h1 align="center">Hey 👋 What's up?</h1>
-
-<h2 align="center">I'm Shadow ⚡</h2>
+<h1 align="center">Hey 👋 I'm Shadow</h1>
 
 <p align="center">
-Python Developer • Blender Designer • Content Creator
+🐍 Python Developer • 🎨 Blender Designer • 🎬 Content Creator
 </p>
 
 <p align="center">
-Building tools, creating content, and designing in Blender.
+Learning, creating, and building cool projects.
 </p>
 
 ---
 
-## 💻 Skills
+## 🚀 About Me
+
+- 🐍 Python Developer
+- 🎨 Blender Designer
+- 🎬 Content Creator
+- 🎞️ Adobe After Effects
+- 🖼️ Adobe Photoshop
+- 🎬 Adobe Premiere Pro
+
+---
+
+## 🛠️ Tools & Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,blender,git,github,vscode,linux,cpp,cs,js" />
+<img src="https://skillicons.dev/icons?i=python,blender,git,github,vscode" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
 </p>
 
 ---
@@ -24,25 +39,14 @@ Building tools, creating content, and designing in Blender.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shadow518a-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow518a-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Streak
+## 🌐 Contact
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=shadow518a-dev&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Connect
-
-<p align="center">
-<a href="https://discord.gg/YOURSERVER">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="https://discord.com/users/shadow518a">
+<img src="https://img.shields.io/badge/Discord-shadow518a-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 </p>
-
