@@ -10,9 +10,18 @@ Python Developer • Blender Designer • Content Creator
 
 - 🐍 Python
 - 🎨 Blender
-- ✨ After Effects
-- 🎬 Premiere Pro
-- 🖼️ Photoshop
+- 🟨 JavaScript
+- ✨ Adobe After Effects
+- 🎬 Adobe Premiere Pro
+- 🖼️ Adobe Photoshop
+
+---
+
+## 🛠️ Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,blender,javascript" />
+</p>
 
 ---
 
