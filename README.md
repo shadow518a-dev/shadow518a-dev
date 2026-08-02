@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Shadow</h1>
+<h1 align="center">About Shadow</h1>
 
 <p align="center">
 Python Developer • Blender Designer • Content Creator
@@ -6,26 +6,48 @@ Python Developer • Blender Designer • Content Creator
 
 ---
 
-## 🚀 About Me
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>
+<b>Python</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cs" width="48"/><br>
+<b>C#</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=javascript" width="48"/><br>
+<b>JavaScript</b>
+</td>
+</tr>
 
-- 🐍 Python
-- 🎨 Blender
-- 🟨 JavaScript
-- ✨ Adobe After Effects
-- 🎬 Adobe Premiere Pro
-- 🖼️ Adobe Photoshop
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=blender" width="48"/><br>
+<b>Blender</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ps" width="48"/><br>
+<b>Photoshop</b>
+</td>
+<td></td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ae" width="48"/><br>
+<b>After Effects</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pr" width="48"/><br>
+<b>Premiere Pro</b>
+</td>
+<td></td>
+</tr>
+</table>
 
 ---
-
-## 🛠️ Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,blender,javascript" />
-</p>
-
----
-
-## 🌐 Contact
 
 <p align="center">
   <a href="https://discord.com/users/shadow518a">
