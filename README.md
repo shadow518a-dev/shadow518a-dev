@@ -1,51 +1,20 @@
 <h1 align="center">About Shadow</h1>
 
-<p align="center">
-Python Developer • Blender Designer • Content Creator
-</p>
+---
+
+- <img src="https://skillicons.dev/icons?i=python" width="22"/> **Python**
+- <img src="https://skillicons.dev/icons?i=cs" width="22"/> **C#**
+- <img src="https://skillicons.dev/icons?i=javascript" width="22"/> **JavaScript**
 
 ---
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="48"/><br>
-<b>Python</b>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=cs" width="48"/><br>
-<b>C#</b>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=javascript" width="48"/><br>
-<b>JavaScript</b>
-</td>
-</tr>
+- <img src="https://skillicons.dev/icons?i=blender" width="22"/> **Blender**
+- <img src="https://skillicons.dev/icons?i=ps" width="22"/> **Adobe Photoshop**
 
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=blender" width="48"/><br>
-<b>Blender</b>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=ps" width="48"/><br>
-<b>Photoshop</b>
-</td>
-<td></td>
-</tr>
+---
 
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=ae" width="48"/><br>
-<b>After Effects</b>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=pr" width="48"/><br>
-<b>Premiere Pro</b>
-</td>
-<td></td>
-</tr>
-</table>
+- <img src="https://skillicons.dev/icons?i=ae" width="22"/> **Adobe After Effects**
+- <img src="https://skillicons.dev/icons?i=pr" width="22"/> **Adobe Premiere Pro**
 
 ---
 
